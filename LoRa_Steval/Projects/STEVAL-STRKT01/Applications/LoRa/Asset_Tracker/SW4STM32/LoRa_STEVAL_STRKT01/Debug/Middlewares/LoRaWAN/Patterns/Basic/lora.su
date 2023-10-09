@@ -1,0 +1,10 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:402:13:MlmeIndication	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:214:13:McpsIndication	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:165:13:McpsConfirm	72	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:294:13:MlmeConfirm	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:452:6:LORA_Init	112	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:585:6:LORA_Join	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:641:16:LORA_JoinStatus	40	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:661:6:LORA_send	40	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:781:17:LORA_RequestClass	48	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora.c:849:6:LORA_GetCurrentClass	40	static

@@ -1,0 +1,9 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:440:17:SpiFrequency.constprop	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:227:6:HW_SPI_IoInit	72	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:148:6:HW_SPI_Init	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:276:6:HW_SPI_IoDeInit	64	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:211:6:HW_SPI_DeInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:322:6:HW_SPI_InOut_Message	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:361:6:receive_SPI_data	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:371:9:get_nucleo_data	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/hw_spi.c:429:10:HW_SPI_InOut	32	static

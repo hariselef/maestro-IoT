@@ -1,0 +1,10 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:221:13:Teseo_Bus_BackgroundProcess	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:208:13:Teseo_Bus_AbortCallback	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:191:13:Teseo_Bus_ErrorCallback	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:174:13:Teseo_Bus_RxCallback	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:158:27:Teseo_Bus_Write	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:146:27:Teseo_Release_Buffer	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:136:31:Teseo_Get_Buffer	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:85:27:Teseo_Bus_OnOff	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:119:27:Teseo_Bus_Disable	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_io.c:102:27:Teseo_Bus_Enable	8	static

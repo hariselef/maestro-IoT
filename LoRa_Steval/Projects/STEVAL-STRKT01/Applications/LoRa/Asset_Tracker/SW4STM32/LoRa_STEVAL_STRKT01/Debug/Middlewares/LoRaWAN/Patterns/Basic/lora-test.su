@@ -1,0 +1,6 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora-test.c:90:13:certif_tx.isra	40	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora-test.c:348:13:OnCertifTxNextPacketTimerEvent	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora-test.c:73:6:certif_running	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora-test.c:78:6:certif_DownLinkIncrement	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora-test.c:83:6:certif_linkCheck	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Patterns/Basic/lora-test.c:158:6:certif_rx	72	static

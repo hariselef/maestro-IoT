@@ -1,0 +1,7 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker.c:131:10:BSP_GetVersion	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker.c:143:6:BSP_LED_Init	32	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker.c:169:6:BSP_LED_On	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker.c:184:6:BSP_LED_Off	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker.c:199:6:BSP_LED_Toggle	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker.c:218:6:BSP_PB_Init	56	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker.c:256:10:BSP_PB_GetState	8	static

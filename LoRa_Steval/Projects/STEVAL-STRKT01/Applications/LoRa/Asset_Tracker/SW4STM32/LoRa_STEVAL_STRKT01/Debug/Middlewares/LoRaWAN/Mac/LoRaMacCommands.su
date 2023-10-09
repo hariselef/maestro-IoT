@@ -1,0 +1,11 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:300:24:LoRaMacCommandsInit	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:313:24:LoRaMacCommandsRestoreNvmCtx	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:327:7:LoRaMacCommandsGetNvmCtx	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:333:24:LoRaMacCommandsAddCmd	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:368:24:LoRaMacCommandsRemoveCmd	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:394:24:LoRaMacCommandsGetCmd	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:418:24:LoRaMacCommandsRemoveNoneStickyCmds	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:446:24:LoRaMacCommandsRemoveStickyAnsCmds	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:470:24:LoRaMacCommandsGetSizeSerializedCmds	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:480:24:LoRaMacCommandsSerializeCmds	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacCommands.c:510:24:LoRaMacCommandsStickyCmdsPending	0	static

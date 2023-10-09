@@ -1,0 +1,13 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:83:9:LORA_TRACKER_ENV_SENSOR_FIFO_Get_Data	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:122:9:LORA_TRACKER_ENV_SENSOR_FIFO_Get_Fth_Status	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:161:9:LORA_TRACKER_ENV_SENSOR_FIFO_Get_Full_Status	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:200:9:LORA_TRACKER_ENV_SENSOR_FIFO_Get_Num_Samples	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:239:9:LORA_TRACKER_ENV_SENSOR_FIFO_Get_Ovr_Status	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:278:9:LORA_TRACKER_ENV_SENSOR_FIFO_Reset_Interrupt	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:317:9:LORA_TRACKER_ENV_SENSOR_FIFO_Set_Interrupt	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:356:9:LORA_TRACKER_ENV_SENSOR_FIFO_Set_Mode	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:396:9:LORA_TRACKER_ENV_SENSOR_FIFO_Set_Watermark_Level	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:435:9:LORA_TRACKER_ENV_SENSOR_FIFO_Usage	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:484:9:LORA_TRACKER_ENV_SENSOR_Get_DRDY_Status	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:567:9:LORA_TRACKER_ENV_SENSOR_Read_Register	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors_ex.c:614:9:LORA_TRACKER_ENV_SENSOR_Write_Register	8	static

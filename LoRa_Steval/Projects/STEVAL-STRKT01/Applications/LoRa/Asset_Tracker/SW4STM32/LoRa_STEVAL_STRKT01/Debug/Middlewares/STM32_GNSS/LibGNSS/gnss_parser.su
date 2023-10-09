@@ -1,0 +1,3 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/ST/STM32_GNSS/LibGNSS/Src/gnss_parser.c:58:21:GNSS_PARSER_Init	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/ST/STM32_GNSS/LibGNSS/Src/gnss_parser.c:92:21:GNSS_PARSER_CheckSanity	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/ST/STM32_GNSS/LibGNSS/Src/gnss_parser.c:111:21:GNSS_PARSER_ParseMsg	8	static

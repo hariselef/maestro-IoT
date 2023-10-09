@@ -1,0 +1,5 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/queue.c:33:6:circular_queue_init	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/queue.c:43:5:circular_queue_add	20	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/queue.c:100:5:circular_queue_get	20	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/queue.c:132:5:circular_queue_remove	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/queue.c:168:5:circular_queue_sense	0	static

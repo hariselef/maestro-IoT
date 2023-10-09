@@ -1,0 +1,5 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_queue.c:222:21:teseo_queue_init	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_queue.c:250:18:teseo_queue_claim_wr_buffer	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_queue.c:296:6:teseo_queue_release_wr_buffer	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_queue.c:337:24:teseo_queue_claim_rd_buffer	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/Components/teseoIII/teseo_queue.c:380:6:teseo_queue_release_rd_buffer	24	static

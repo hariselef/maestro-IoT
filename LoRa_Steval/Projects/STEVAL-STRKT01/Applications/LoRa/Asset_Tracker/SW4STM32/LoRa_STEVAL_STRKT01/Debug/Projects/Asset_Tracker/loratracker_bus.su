@@ -1,0 +1,13 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:230:9:BSP_I2C1_DeInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:251:9:BSP_I2C1_IsReady	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:263:9:BSP_I2C1_WriteReg	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:283:10:BSP_I2C1_ReadReg	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:304:9:BSP_I2C1_Recv	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:350:9:BSP_GetTick	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:360:19:I2C1_Init	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:185:9:BSP_I2C1_Init	40	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:148:6:BSP_sensor_Read_I2C_Error	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:659:18:M95M02_DR_IO_Init	64	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:689:9:EEPROM_PIN_Write	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:728:9:EEPROM_PIN_Read	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/loratracker_bus.c:770:9:EEPROM_Send_Instruction	40	static

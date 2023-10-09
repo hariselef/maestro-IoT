@@ -1,0 +1,10 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:128:10:SX1276GetWakeTime	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:357:6:SX1276CheckRfFrequency	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:202:6:SX1276SetRfTxPower	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:133:6:SX1276SetXO	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:147:6:SX1276IoInit	32	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:182:6:SX1276IoDeInit	32	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:174:6:SX1276IoIrqInit	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:282:6:SX1276SetAntSwLowPower	32	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:331:6:SX1276SetAntSw	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/CMWX1ZZABZ-0xx/mlm32l07x01.c:270:9:SX1276GetPaSelect	0	static

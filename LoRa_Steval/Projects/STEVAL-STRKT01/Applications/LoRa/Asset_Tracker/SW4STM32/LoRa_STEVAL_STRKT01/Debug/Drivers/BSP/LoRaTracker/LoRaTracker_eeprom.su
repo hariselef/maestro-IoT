@@ -1,0 +1,16 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:113:18:BSP_EEPROM_Init	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:188:18:BSP_EEPROM_DeInit	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:223:18:BSP_EEPROM_Module_Enable	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:254:18:BSP_EEPROM_Module_Disable	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:286:18:BSP_EEPROM_IsInitialized	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:312:18:BSP_EEPROM_IsEnabled	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:338:18:BSP_EEPROM_Get_Instance	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:363:18:BSP_EEPROM_WriteEnable	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:394:18:BSP_EEPROM_WriteDisable	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:426:18:BSP_EEPROM_ReadStatusRegister	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:463:18:BSP_EEPROM_WriteStatusRegister	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:502:18:BSP_EEPROM_Read	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:532:18:BSP_EEPROM_Write	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:562:18:BSP_EEPROM_WIP_Check	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:600:18:BSP_EEPROM_Get_BP	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_eeprom.c:638:18:BSP_EEPROM_Set_BP	8	static

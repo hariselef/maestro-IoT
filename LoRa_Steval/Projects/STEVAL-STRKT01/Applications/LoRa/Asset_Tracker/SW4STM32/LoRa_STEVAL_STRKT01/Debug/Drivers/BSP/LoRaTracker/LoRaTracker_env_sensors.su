@@ -1,0 +1,9 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:117:9:LORA_TRACKER_ENV_SENSOR_Init	96	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:207:9:LORA_TRACKER_ENV_SENSOR_DeInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:233:9:LORA_TRACKER_ENV_SENSOR_GetCapabilities	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:259:9:LORA_TRACKER_ENV_SENSOR_ReadID	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:287:9:LORA_TRACKER_ENV_SENSOR_Enable	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:325:9:LORA_TRACKER_ENV_SENSOR_Disable	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:364:9:LORA_TRACKER_ENV_SENSOR_GetOutputDataRate	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:403:9:LORA_TRACKER_ENV_SENSOR_SetOutputDataRate	24	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_env_sensors.c:443:9:LORA_TRACKER_ENV_SENSOR_GetValue	24	static

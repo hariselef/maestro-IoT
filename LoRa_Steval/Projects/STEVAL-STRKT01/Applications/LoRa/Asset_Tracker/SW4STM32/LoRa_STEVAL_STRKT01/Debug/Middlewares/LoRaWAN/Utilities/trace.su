@@ -1,0 +1,4 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/trace.c:115:13:Trace_TxCpltCallback	24	static,ignoring_inline_asm
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/trace.c:53:6:TraceInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/trace.c:62:9:TraceSend	296	static,ignoring_inline_asm
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Utilities/trace.c:97:13:TraceGetFileName	8	static

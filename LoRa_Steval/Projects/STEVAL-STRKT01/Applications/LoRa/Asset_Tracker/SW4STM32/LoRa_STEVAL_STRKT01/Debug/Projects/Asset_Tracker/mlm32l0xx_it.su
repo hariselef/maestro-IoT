@@ -1,0 +1,16 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:121:6:NMI_Handler	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:133:6:HardFault_Handler	16	static,ignoring_inline_asm
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:153:6:MemManage_Handler	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:166:6:BusFault_Handler	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:179:6:UsageFault_Handler	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:192:6:SVC_Handler	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:201:6:DebugMon_Handler	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:210:6:PendSV_Handler	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:219:6:SysTick_Handler	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:233:6:USART1_IRQHandler	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:246:6:RTC_IRQHandler	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:251:6:EXTI0_1_IRQHandler	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:258:6:EXTI2_3_IRQHandler	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:266:6:EXTI4_15_IRQHandler	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:297:6:M95M02_DR_SPI_DMA_IRQHandler	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_it.c:308:6:USB_IRQHandler	8	static

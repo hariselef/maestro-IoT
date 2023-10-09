@@ -1,0 +1,16 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:474:6:HW_AdcInit.part.0	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:243:6:HW_DeInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:298:6:HW_GpioInit	64	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:344:6:SystemClock_Config	88	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:389:10:HW_GetRandomSeed	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:399:6:HW_GetUniqueId	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:474:6:HW_AdcInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:512:6:HW_AdcDeInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:523:10:HW_AdcReadChannel	32	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:411:10:HW_GetTemperatureLevel	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:450:10:HW_GetBatteryLevel	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:574:6:LPM_EnterStopMode	40	static,ignoring_inline_asm
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:598:6:LPM_ExitStopMode	16	static,ignoring_inline_asm
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:636:6:LPM_EnterSleepMode	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:647:6:HW_GetStartupMode	0	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/Core/src/mlm32l0xx_hw.c:173:6:HW_Init	16	static

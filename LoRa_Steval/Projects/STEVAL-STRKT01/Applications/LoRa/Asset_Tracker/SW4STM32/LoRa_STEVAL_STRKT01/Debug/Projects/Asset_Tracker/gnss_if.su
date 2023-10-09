@@ -1,0 +1,3 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/gnss_if.c:80:6:GNSS_IF_ConsoleWrite	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/gnss_if.c:86:6:GNSS_IF_WriteCommand	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Projects/STEVAL-STRKT01/Applications/LoRa/Asset_Tracker/LoRaWAN/App/src/gnss_if.c:94:6:GNSS_IF_Delay	8	static

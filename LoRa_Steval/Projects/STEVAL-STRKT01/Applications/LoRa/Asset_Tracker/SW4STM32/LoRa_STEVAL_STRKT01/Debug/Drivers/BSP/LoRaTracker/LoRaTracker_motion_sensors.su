@@ -1,0 +1,13 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:125:9:BSP_LORA_TRACKER_MOTION_SENSOR_Init	104	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:258:9:BSP_LORA_TRACKER_MOTION_SENSOR_DeInit	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:279:9:BSP_LORA_TRACKER_MOTION_SENSOR_GetCapabilities	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:301:9:BSP_LORA_TRACKER_MOTION_SENSOR_ReadID	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:325:9:BSP_LORA_TRACKER_MOTION_SENSOR_Enable	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:356:9:BSP_LORA_TRACKER_MOTION_SENSOR_Disable	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:388:9:BSP_LORA_TRACKER_MOTION_SENSOR_GetAxes	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:420:9:BSP_LORA_TRACKER_MOTION_SENSOR_GetAxesRaw	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:452:9:BSP_LORA_TRACKER_MOTION_SENSOR_GetSensitivity	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:484:9:BSP_LORA_TRACKER_MOTION_SENSOR_GetOutputDataRate	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:516:9:BSP_LORA_TRACKER_MOTION_SENSOR_GetFullScale	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:548:9:BSP_LORA_TRACKER_MOTION_SENSOR_SetOutputDataRate	16	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Drivers/BSP/LoRaTracker/LoRaTracker_motion_sensors.c:580:9:BSP_LORA_TRACKER_MOTION_SENSOR_SetFullScale	16	static

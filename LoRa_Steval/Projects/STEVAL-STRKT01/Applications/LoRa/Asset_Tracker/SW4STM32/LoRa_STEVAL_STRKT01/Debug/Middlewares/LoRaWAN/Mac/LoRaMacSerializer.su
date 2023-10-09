@@ -1,0 +1,4 @@
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacSerializer.c:24:27:LoRaMacSerializerJoinRequest	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacSerializer.c:60:27:LoRaMacSerializerReJoinType1	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacSerializer.c:91:27:LoRaMacSerializerReJoinType0or2	8	static
+/home/nestorid/Downloads/en.fp-atr-lora1/STM32CubeFunctionPack_LORA1_V2.2.0/Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacSerializer.c:122:27:LoRaMacSerializerData	16	static
